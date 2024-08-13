@@ -4,7 +4,7 @@ import { ProgressBar, Container, Row, Col } from 'react-bootstrap';
 const skills = [
   { name: 'HTML', level: 90 },
   { name: 'CSS', level: 75 },
-  { name: 'JavaScript', level: 50 },
+  { name: 'JavaScript', level: 70 },
   { name: 'React', level: 70 },
   { name: 'MySQL', level: 70 },
   { name: 'Node.js', level: 50 },
